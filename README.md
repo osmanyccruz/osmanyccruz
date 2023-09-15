@@ -9,7 +9,9 @@ So go ahead, take a look and join this exciting adventure of exploring and disco
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osmanyccruz) 
-
+---
+[![](https://visitcount.itsvg.in/api?id=osmanyccruz&icon=0&color=1)](https://visitcount.itsvg.in)
+---
 # 💻 Tech Stack:
 #### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)  
@@ -35,8 +37,6 @@ So go ahead, take a look and join this exciting adventure of exploring and disco
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=osmanyccruz&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!---
 osmanyccruz/osmanyccruz is a ✨ special ✨ repository.
