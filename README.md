@@ -1,4 +1,4 @@
-<a href="https://github.com/osmanyccruz" target="_blank" rel="noreferrer"> <img src="https://github.com/osmanyccruz/osmanyccruz/blob/main/osmanyccruz-github.png" alt="osmanyccruz" width="1280" height="360"/> </a>
+<a href="https://github.com/osmanyccruz" target="_blank" rel="noreferrer"> <img src="https://github.com/osmanyccruz/osmanyccruz/blob/main/osmanyccruz-github.png" alt="osmanyccruz" width="1280" height="300"/> </a>
 
 👋 Hello and welcome to my corner on GitHub!
 
