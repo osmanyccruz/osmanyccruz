@@ -1,3 +1,5 @@
+<a href="https://github.com/osmanyccruz" target="_blank" rel="noreferrer"> <img src="https://github.com/osmanyccruz/osmanyccruz/blob/main/osmanyccruz-github.png" alt="osmanyccruz" width="1280" height="360"/> </a>
+
 👋 Hello and welcome to my corner on GitHub!
 
 Here, in the field of Data Analytics, I am constantly growing and exploring. I am on an exciting journey where I learn new skills and gain fresh insights all the time.
