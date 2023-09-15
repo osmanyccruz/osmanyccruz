@@ -12,7 +12,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=osmanyccruz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=osmanyccruz&theme=dark&hide_border=false)<br/>
-
+##
+![Snake animation](https://github.com/centaurogda/centaurogda/blob/output/github-contribution-grid-snake.svg)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=osmanyccruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
