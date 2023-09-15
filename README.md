@@ -1,11 +1,8 @@
 👋 Hello and welcome to my corner on GitHub!
 
 Here, in the field of Data Analytics, I am constantly growing and exploring. I am on an exciting journey where I learn new skills and gain fresh insights all the time.
-
 I am motivated by unraveling data stories and discovering the hidden connections between them. But beyond that, I strongly believe in sharing what I learn and collaborating with others passionate about the world of data.
-
 I'm always willing to work on interesting projects and connect with people who share my interest in data. Together, we can open new doors and create amazing things in this world of Data Analytics.
-
 So go ahead, take a look and join this exciting adventure of exploring and discovering the world of data!
   
 ## 🌐 Socials:
