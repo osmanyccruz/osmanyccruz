@@ -1,4 +1,4 @@
-👋 Hello and welcome to my corner on GitHub!
+Hello and welcome to my corner on GitHub!
 
 Here, in the field of Data Analytics, I am constantly growing and exploring. I am on an exciting journey where I learn new skills and gain fresh insights all the time.
 I am motivated by unraveling data stories and discovering the hidden connections between them. But beyond that, I strongly believe in sharing what I learn and collaborating with others passionate about the world of data.
