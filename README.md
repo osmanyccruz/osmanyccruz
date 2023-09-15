@@ -5,7 +5,7 @@ I am motivated by unraveling data stories and discovering the hidden connections
 I'm always willing to work on interesting projects and connect with people who share my interest in data. Together, we can open new doors and create amazing things in this world of Data Analytics.
 So go ahead, take a look and join this exciting adventure of exploring and discovering the world of data!
 
----
+#
 [![](https://visitcount.itsvg.in/api?id=osmanyccruz&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
