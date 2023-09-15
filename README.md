@@ -1,6 +1,6 @@
 <a href="https://github.com/osmanyccruz" target="_blank" rel="noreferrer"> <img src="https://github.com/osmanyccruz/osmanyccruz/blob/main/osmanyccruz-github.png" alt="osmanyccruz" style=”max-width:100%;width:auto;height:auto;”/> </a>
 
-##👋 **Hello and welcome to my corner on GitHub!**
+<h2>👋 **Hello and welcome to my corner on GitHub!**</h2>
 
 <p>Here, in the field of Data Analytics, I'm constantly growing and exploring. I'm on an exciting journey where I learn new skills and gain fresh insights all the time.</p>
 <p>I'm motivated by unraveling data stories and discovering the hidden connections between them. But beyond that, I strongly believe in sharing what I learn and collaborating with others passionate about the world of data.</p>
