@@ -24,7 +24,7 @@
   <a href="https://www.youtube.com/channel/UC9kBCxsCOpMBUKKNfLUD4vw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/manyccruz" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/osmanyccruz/osmanyccruz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/centaurogda/centaurogda/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
