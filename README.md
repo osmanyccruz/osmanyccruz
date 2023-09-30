@@ -1,4 +1,4 @@
-<a href="https://github.com/osmanyccruz" target="_blank" rel="noreferrer"> <img src="https://github.com/osmanyccruz/osmanyccruz/blob/main/osmanyccruz-github.png" alt="osmanyccruz" style=”max-width:100%;width:auto;height:auto;”/> </a>
+<a href="https://github.com/osmanyccruz" target="_blank" rel="noreferrer"> <img src="https://github.com/osmanyccruz/osmanyccruz/blob/main/my_front_page_gh.png" alt="my_front-page" style=”max-width:100%;width:auto;height:auto;”/> </a>
 
 <h2>👋 Hello and welcome to my corner on GitHub!</h2>
 
@@ -33,9 +33,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=osmanyccruz&theme=dark&hide_border=false)<br/>
 ##
 ![Snake animation](https://github.com/centaurogda/centaurogda/blob/output/github-contribution-grid-snake.svg)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=osmanyccruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
